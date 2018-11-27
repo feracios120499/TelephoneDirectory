@@ -1,0 +1,9 @@
+C:\Users\Feracios\Documents\GitHub\ADO.NET\TelephoneDirectory\TelephoneDirectory\bin\Debug\TelephoneDirectory.exe.config
+C:\Users\Feracios\Documents\GitHub\ADO.NET\TelephoneDirectory\TelephoneDirectory\bin\Debug\TelephoneDirectory.exe
+C:\Users\Feracios\Documents\GitHub\ADO.NET\TelephoneDirectory\TelephoneDirectory\bin\Debug\TelephoneDirectory.pdb
+C:\Users\Feracios\Documents\GitHub\ADO.NET\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.csprojResolveAssemblyReference.cache
+C:\Users\Feracios\Documents\GitHub\ADO.NET\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.Form1.resources
+C:\Users\Feracios\Documents\GitHub\ADO.NET\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.Properties.Resources.resources
+C:\Users\Feracios\Documents\GitHub\ADO.NET\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.csproj.GenerateResource.Cache
+C:\Users\Feracios\Documents\GitHub\ADO.NET\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.exe
+C:\Users\Feracios\Documents\GitHub\ADO.NET\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.pdb
